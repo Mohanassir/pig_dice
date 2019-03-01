@@ -1,0 +1,14 @@
+.dice {
+  background: skyblue;
+  float: left;
+  text-align: center;
+  padding: 15px;
+  margin: 10px;
+  font-size: 20px;
+}
+h1{
+  font-weight: bold;
+  font-style: italic;
+  font-family: monospace;
+
+}
