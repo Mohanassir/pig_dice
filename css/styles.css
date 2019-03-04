@@ -1,5 +1,5 @@
 .dice {
-  background: skyblue;
+  background: darkgreen;
   float: left;
   text-align: center;
   padding: 15px;
@@ -12,6 +12,6 @@ h1{
   font-family: monospace;
 
 }
-h2 {
-  clear: left;
+body {
+  background-color: skyblue;
 }
