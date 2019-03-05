@@ -4,7 +4,7 @@
 
 ##  DESCRIPTION
 
-Basically this is a pig dice game between two players and below are the conditions for playing the game
+-Basically this is a pig dice game between two players and below are the conditions for playing the game
 -Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
 
 -If the player rolls a 1, they score nothing and it becomes the next player's turn.
