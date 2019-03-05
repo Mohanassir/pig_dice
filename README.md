@@ -2,7 +2,7 @@
 #### This is a pig dice game project 4/3/2019
 #### By Mohanassir
 
-## DESCRIPTION
+##  DESCRIPTION
 
 Basically this is a pig dice game between two players and below are the conditions for playing the game
 -Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
@@ -10,6 +10,7 @@ Basically this is a pig dice game between two players and below are the conditio
 -If the player rolls a 1, they score nothing and it becomes the next player's turn.
 -If the player rolls any other number, it is added to their turn total and the player's turn continues.
 -If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn.
+
 ## setup/installations
 .atom
 .chrome
