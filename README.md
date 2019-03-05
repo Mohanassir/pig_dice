@@ -16,8 +16,8 @@ Basically this is a pig dice game between two players and below are the conditio
 .chrome
 
 ## Technologies Used.
-html
-css
+Html
+Css
 Javascript
 
 ## Support and contact details
