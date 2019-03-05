@@ -1,6 +1,6 @@
 function rollDice(){
   var dice1=document.getElementById("dice1");
-  var dice2=document.getElementById("dice1");
+  var dice2=document.getElementById("dice2");
 
   var d1= math.floor(math.random() * 6) + 1;
   var d2= math.floor(math.random() * 6) + 1;
